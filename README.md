@@ -2,7 +2,7 @@
 
 A full-stack AI chat application with a React + TypeScript frontend and a Spring Boot backend powered by Google's Gemini AI.
 
-![Miko AI Assistant](readme_images/image.png)
+![Miko AI Assistant](./frontend/readme_images/image.png)
 
 ## ✨ Features
 
@@ -73,7 +73,7 @@ A full-stack AI chat application with a React + TypeScript frontend and a Spring
 
 ## 🎉 Chat Example
 
-![Chat Example](./readme_images/chat-ss.png)
+![Chat Example](./frontend/readme_images/chat-ss.png)
 
 ## 📬 Contact
 
