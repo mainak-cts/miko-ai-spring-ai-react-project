@@ -38,6 +38,7 @@ export default function PromptBar({
           onChange={(e) => {
             setFile(e.target.files?.[0] || null);
           }}
+          accept=".png,.jpg,.jpeg"
         />
         {/* Preview of the selected file with option to remove */}
         {file && (
