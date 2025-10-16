@@ -36,7 +36,7 @@ A full-stack AI chat application with a React + TypeScript frontend and a Spring
 2. **Add your Gemini API key to `src/main/resources/application.properties`:**
 
    ```properties
-   gemini.api.key=your-gemini-api-key-here
+   spring.ai.google.genai.api-key=${GEMINI_API_KEY}  // Put your Gemini API key here
    ```
 
 3. **Start the backend:**
